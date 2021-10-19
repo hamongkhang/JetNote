@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout
+    android:layout_height="match_parent"
+    android:layout_width="340dp"
+    android:stretchColumns="1"
+    android:shrinkColumns="0"
+    android:layout_margin="8dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TableLayout
+        android:layout_height="64dp"
+        android:layout_width="100dp"
+        android:layout_margin="8dp">
+        <TableRow>
+            <androidx.constraintlayout.utils.widget.ImageFilterView
+                android:id="@+id/imageFilterView6"
+
+                android:layout_width="63dp"
+                android:layout_height="64dp"
+                android:src="@drawable/hinhtron1" />
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="261dp"
+                android:layout_height="64dp"
+                android:paddingTop="1dp"
+                android:paddingLeft="20dp"
+                android:text="Tite 1
+                Content 1"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                android:textSize="24dp"
+                android:textStyle="bold" />
+
+        </TableRow>
+
+    </TableLayout>
+    <TableLayout
+        android:layout_height="64dp"
+        android:layout_width="100dp"
+        android:layout_margin="8dp">
+        <TableRow>
+            <androidx.constraintlayout.utils.widget.ImageFilterView
+                android:id="@+id/imageFilterView7"
+
+                android:layout_width="63dp"
+                android:layout_height="64dp"
+                android:src="@drawable/hinhtron2" />
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="261dp"
+                android:layout_height="64dp"
+                android:paddingTop="1dp"
+                android:paddingLeft="20dp"
+                android:text="Tite 1
+                Content 1"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                android:textSize="24dp"
+                android:textStyle="bold" />
+        </TableRow>
+    </TableLayout>
+    <TableLayout
+        android:layout_height="64dp"
+        android:layout_width="100dp"
+        android:layout_margin="8dp">
+        <TableRow>
+            <androidx.constraintlayout.utils.widget.ImageFilterView
+                android:id="@+id/imageFilterView8"
+
+                android:layout_width="63dp"
+                android:layout_height="64dp"
+                android:src="@drawable/hinhtron3" />
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="261dp"
+                android:layout_height="64dp"
+                android:paddingTop="1dp"
+                android:paddingLeft="20dp"
+                android:text="Tite 1
+                Content 1"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                android:textSize="24dp"
+                android:textStyle="bold" />
+
+        </TableRow>
+
+    </TableLayout>
+    <TableLayout
+        android:layout_height="64dp"
+        android:layout_width="100dp"
+        android:layout_margin="8dp">
+        <TableRow>
+            <androidx.constraintlayout.utils.widget.ImageFilterView
+                android:id="@+id/imageFilterView9"
+
+                android:layout_width="63dp"
+                android:layout_height="64dp"
+                android:src="@drawable/hinhtron4" />
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="261dp"
+                android:layout_height="64dp"
+                android:paddingTop="1dp"
+                android:paddingLeft="20dp"
+                android:text="Tite 1
+                Content 1"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                android:textSize="24dp"
+                android:textStyle="bold" />
+        </TableRow>
+    </TableLayout>
+    <TableLayout
+        android:layout_height="64dp"
+        android:layout_width="100dp"
+        android:layout_margin="8dp">
+        <TableRow>
+            <androidx.constraintlayout.utils.widget.ImageFilterView
+                android:id="@+id/imageFilterView1"
+
+                android:layout_width="63dp"
+                android:layout_height="64dp"
+                android:src="@drawable/hinhtron5" />
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="261dp"
+                android:layout_height="64dp"
+                android:paddingTop="1dp"
+                android:paddingLeft="20dp"
+                android:text="Tite 1
+                Content 1"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                android:textSize="24dp"
+                android:textStyle="bold" />
+        </TableRow>
+    </TableLayout>
+    <TableLayout
+        android:layout_height="64dp"
+        android:layout_width="100dp"
+        android:layout_margin="8dp">
+        <TableRow>
+            <androidx.constraintlayout.utils.widget.ImageFilterView
+                android:id="@+id/imageFilterView2"
+
+                android:layout_width="63dp"
+                android:layout_height="64dp"
+                android:src="@drawable/hinhtron6" />
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="261dp"
+                android:layout_height="64dp"
+                android:paddingTop="1dp"
+                android:paddingLeft="20dp"
+                android:text="Tite 1
+                Content 1"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                android:textSize="24dp"
+                android:textStyle="bold" />
+        </TableRow>
+    </TableLayout>
+</TableLayout>
